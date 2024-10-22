@@ -56,5 +56,7 @@ StockWatcher is a web-based application that allows users to track the latest st
 
 ## Screenshots
 ![Screenshot from 2024-10-18 12-14-52](https://github.com/user-attachments/assets/31ee2d14-5a81-47f7-94a5-2b29fb6b6708)
+![Screenshot from 2024-10-22 13-27-55](https://github.com/user-attachments/assets/f2aec1b1-0863-421e-a8ef-08e58d2b0473)
+
 
 
